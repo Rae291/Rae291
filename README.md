@@ -1,4 +1,4 @@
-Twisha Solgama
+Twisha Solgama \n
 Student
 Currently learning iOS and Swift Mobile App development
 You may reach me on: https://www.linkedin.com/in/twisha-solgama-6a2aa1155/
